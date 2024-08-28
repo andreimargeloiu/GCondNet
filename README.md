@@ -19,10 +19,13 @@ Authored by [Andrei Margeloiu](https://www.linkedin.com/in/andreimargeloiu/), [N
 For attribution in academic contexts, please cite this work as:
 ```
 @article{margeloiu2024gcondnet,
-  title={GCondNet: A Novel Method for Improving Neural Networks on Small High-Dimensional Tabular Data},
-  author={Andrei Margeloiu and Nikola Simidjievski and Pietro Lio and Mateja Jamnik},
-  journal={Transactions of Machine Learning Research},
-  year={2024},
+title={{GC}ondNet: A Novel Method for Improving Neural Networks on Small High-Dimensional Tabular Data},
+author={Andrei Margeloiu and Nikola Simidjievski and Pietro Lio and Mateja Jamnik},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2024},
+url={https://openreview.net/forum?id=y0b0H1ndGQ},
+note={Reproducibility Certification}
 }
 ```
 
